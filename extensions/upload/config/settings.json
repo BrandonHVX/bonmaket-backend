@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "brandon-code",
+    "api_key": "317842257898643",
+    "api_secret": "ZGKW-GuDu-_zOoK1AZkNmQepQZ4"
+  }
+}
