@@ -1,8 +1,8 @@
 {
   "provider": "aws-s3",
   "providerOptions": {
-    "accessKeyId": "access",
-    "secretAccessKey": "secret",
+    "accessKeyId": "AKIAIK3WHWL7M33PSJZA",
+    "secretAccessKey": "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",
     "region": "us-east-1",
     "params": {
       "Bucket": "bonmaketgatsby"
