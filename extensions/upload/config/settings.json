@@ -1,8 +1,11 @@
 {
-  "provider": "cloudinary",
+  "provider": "aws-s3",
   "providerOptions": {
-    "cloud_name": "brandon-code",
-    "api_key": "317842257898643",
-    "api_secret": "ZGKW-GuDu-_zOoK1AZkNmQepQZ4"
+    "accessKeyId": "AKIAIK3WHWL7M33PSJZA",
+    "secretAccessKey": "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",
+    "region": "us-east-1",
+    "params": {
+      "Bucket": "bonmaketgatsby"
+    }
   }
 }
